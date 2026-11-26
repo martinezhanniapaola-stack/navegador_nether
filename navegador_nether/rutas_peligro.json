@@ -1,0 +1,22 @@
+[
+  {
+    "nombre_ruta": "ruta_spawn_a_jungla",
+    "distancia_bloques": 365,
+    "riesgos": ["tunel_cubierto", "puente_sobre_lava"]
+  },
+  {
+    "nombre_ruta": "ruta_hub_a_basalto",
+    "distancia_bloques": 190,
+    "riesgos": ["deltas_basalto", "deltas_basalto"]
+  },
+  {
+    "nombre_ruta": "ruta_hub_a_este",
+    "distancia_bloques": 310,
+    "riesgos": ["tunel_cubierto", "tunel_cubierto"]
+  },
+  {
+    "nombre_ruta": "ruta_hub_a_fortaleza",
+    "distancia_bloques": 420,
+    "riesgos": ["puente_sobre_lava", "deltas_basalto"]
+  }
+]

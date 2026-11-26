@@ -1,0 +1,17 @@
+[
+  {"nombre": "portal_spawn", "x": 0, "y": 64, "z": 0, "dimension": "Nether"},
+  {"nombre": "hub_central", "x": 12, "y": 120, "z": -8, "dimension": "Nether"},
+  {"nombre": "granja_oro", "x": -45, "y": 122, "z": 18, "dimension": "Nether"},
+  {"nombre": "base_jungla", "x": -120, "y": 115, "z": 340, "dimension": "Nether"},
+  {"nombre": "bioma_basalto", "x": 180, "y": 70, "z": -95, "dimension": "Nether"},
+  {"nombre": "norte_fortaleza", "x": 40, "y": 118, "z": -260, "dimension": "Nether"},
+  {"nombre": "fortaleza_nether", "x": -55, "y": 68, "z": -310, "dimension": "Nether"},
+  {"nombre": "templo_selva", "x": -210, "y": 112, "z": 410, "dimension": "Nether"},
+  {"nombre": "mina_cuarzo", "x": 260, "y": 54, "z": -150, "dimension": "Nether"},
+  {"nombre": "este_aldea", "x": 320, "y": 119, "z": 25, "dimension": "Nether"},
+  {"nombre": "puesto_comercio", "x": 450, "y": 119, "z": 60, "dimension": "Nether"},
+  {"nombre": "oeste_bastion", "x": -340, "y": 82, "z": -40, "dimension": "Nether"},
+  {"nombre": "ruinas_escarlata", "x": -480, "y": 76, "z": -110, "dimension": "Nether"},
+  {"nombre": "sur_end_portal", "x": 15, "y": 120, "z": 390, "dimension": "Nether"},
+  {"nombre": "base_lejana_aislada", "x": 950, "y": 90, "z": 820, "dimension": "Nether"}
+]

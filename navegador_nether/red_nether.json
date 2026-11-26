@@ -1,0 +1,25 @@
+{
+  "portal_spawn": ["hub_central", "granja_oro"],
+  "hub_central": [
+    "portal_spawn",
+    "base_jungla",
+    "bioma_basalto",
+    "norte_fortaleza",
+    "este_aldea",
+    "oeste_bastion",
+    "sur_end_portal"
+  ],
+  "granja_oro": ["portal_spawn"],
+  "base_jungla": ["hub_central", "fortaleza_nether", "templo_selva"],
+  "bioma_basalto": ["hub_central", "mina_cuarzo"],
+  "norte_fortaleza": ["hub_central", "fortaleza_nether"],
+  "fortaleza_nether": ["base_jungla", "norte_fortaleza"],
+  "templo_selva": ["base_jungla"],
+  "mina_cuarzo": ["bioma_basalto"],
+  "este_aldea": ["hub_central", "puesto_comercio"],
+  "puesto_comercio": ["este_aldea"],
+  "oeste_bastion": ["hub_central", "ruinas_escarlata"],
+  "ruinas_escarlata": ["oeste_bastion"],
+  "sur_end_portal": ["hub_central"],
+  "base_lejana_aislada": []
+}
